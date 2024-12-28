@@ -38,3 +38,4 @@ if __name__ == '__main__':
     multiprocess_time = time.time() - start_time
     print(f'{multiprocess_time} (многопроцессорный)')
     # 2.778996467590332 (многопроцессорный)
+
